@@ -81,12 +81,6 @@ if  __name__=='__main__':
 #     print 'ok'
 #     print 'ok'
 #     print 'ok'
-#     print 'ok'
-#     print 'ok'
-#     print 'ok'
-#     print 'ok'
-#     print 'ok'
-#     print 'ok'
 #     print "zhanglei".replace('zhang','tu')
 #     line1='jcdcdcdsdcdcdv2233'
 #     print "898777777778dcdda".replace("\\d",'-')
